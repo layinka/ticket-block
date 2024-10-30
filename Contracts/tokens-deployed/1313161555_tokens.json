@@ -1,0 +1,18 @@
+[
+  {
+    "currency": "ETH",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "currency": "TKB",
+    "address": "0x3537BC4C1890e528e484DD8DE335C17E9195F1d7"
+  },
+  {
+    "currency": "AURORA",
+    "address": "0xBc22E20975E980E484f617f3053680fb01E2e62A"
+  },
+  {
+    "currency": "USDC",
+    "address": "0x6ff45859D2728D7449C8Fc988c981b8EebF22E6d"
+  }
+]

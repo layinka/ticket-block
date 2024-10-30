@@ -1,0 +1,18 @@
+[
+  {
+    "currency": "FTM",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "currency": "USDC",
+    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+  },
+  {
+    "currency": "FUSD",
+    "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f"
+  },
+  {
+    "currency": "pTick",
+    "address": "0x6CA54B81092c8b5efFaDAED24745fAe7125630dA"
+  }
+]
